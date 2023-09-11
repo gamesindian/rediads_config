@@ -1,0 +1,298 @@
+{
+  "commonConfig": {
+    "prebidDisabled": false,
+    "amazonDisabled": false,
+    "bidTimeout": 1500,
+    "apiTimeout": 500,
+    "SECONDS_TO_WAIT_AFTER_VIEWABILITY": "Math.floor(6 * Math.random()) + 30",
+    "Amazon_ID": "5d8ed25e-57cc-441a-b62a-127b34faae4e",
+    "prebidCommonBidders": [
+      {
+        "bidder": "pubmatic",
+        "params": {
+          "publisherId": "162837"
+        }
+      },
+      {
+        "bidder": "triplelift",
+        "params": {
+          "inventoryCode": "Gamesadda_Leaderboard_320x50"
+        }
+      },
+      {
+        "bidder": "sovrn",
+        "params": {
+          "tagid": "1153822"
+        }
+      }
+    ]
+  },
+  "domainSpecific": {
+    "republicworld.com": {
+      "seller_id": "1069",
+      "siteObject": {
+        "cat": [
+          "IAB-11"
+        ],
+        "sectioncat": [
+          "IAB12-2"
+        ],
+        "pagecat": [
+          "IAB12-2"
+        ]
+      }
+    },
+    "majhinaukri.in": {
+      "seller_id": "1124",
+      "siteObject": {
+        "cat": [
+          "IAB-5"
+        ],
+        "sectioncat": [
+          "IAB4-11"
+        ],
+        "pagecat": [
+          "IAB4-11"
+        ]
+      }
+    },
+    "technclub.com": {
+      "seller_id": "1018",
+      "siteObject": {
+        "cat": [
+          "IAB-15"
+        ],
+        "sectioncat": [
+          "IAB19"
+        ],
+        "pagecat": [
+          "IAB19"
+        ]
+      }
+    },
+    "gamertweak.com": {
+      "seller_id": "1017",
+      "siteObject": {
+        "cat": [
+          "IAB-9"
+        ],
+        "sectioncat": [
+          "IAB9-30"
+        ],
+        "pagecat": [
+          "IAB9-30"
+        ]
+      }
+    },
+    "gamesadda.in": {
+      "seller_id": "1017",
+      "siteObject": {
+        "cat": [
+          "IAB-14"
+        ],
+        "sectioncat": [
+          "IAB9-30"
+        ],
+        "pagecat": [
+          "IAB9-30"
+        ]
+      }
+    },
+    "nairapreneurs.com": {
+      "seller_id": "1014",
+      "siteObject": {
+        "cat": [
+          "IAB-13"
+        ],
+        "sectioncat": [
+          "IAB19"
+        ],
+        "pagecat": [
+          "IAB19"
+        ]
+      }
+    },
+    "glamsham.com": {
+      "seller_id": "1013",
+      "siteObject": {
+        "cat": [
+          "IAB-9"
+        ],
+        "sectioncat": [
+          "IAB10-2"
+        ],
+        "pagecat": [
+          "IAB10-2"
+        ]
+      }
+    },
+    "newstracklive.com": {
+      "seller_id": "1012",
+      "siteObject": {
+        "cat": [
+          "IAB-11"
+        ],
+        "sectioncat": [
+          "IAB12-3"
+        ],
+        "pagecat": [
+          "IAB12-3"
+        ]
+      }
+    },
+    "clickspersecond.com": {
+      "seller_id": "1011",
+      "siteObject": {
+        "cat": [
+          "IAB-14"
+        ],
+        "sectioncat": [
+          "IAB9-25"
+        ],
+        "pagecat": [
+          "IAB9-25"
+        ]
+      }
+    },
+    "edugic.com": {
+      "seller_id": "1010",
+      "siteObject": {
+        "cat": [
+          "IAB-5"
+        ],
+        "sectioncat": [
+          "IAB5-2"
+        ],
+        "pagecat": [
+          "IAB5-2"
+        ]
+      }
+    },
+    "soundbuttons.net": {
+      "seller_id": "1009",
+      "siteObject": {
+        "cat": [
+          "IAB-14"
+        ],
+        "sectioncat": [
+          "IAB9-1"
+        ],
+        "pagecat": [
+          "IAB9-1"
+        ]
+      }
+    },
+    "sportsunfold.com": {
+      "seller_id": "1008",
+      "siteObject": {
+        "cat": [
+          "IAB-17"
+        ],
+        "sectioncat": [
+          "IAB17-9"
+        ],
+        "pagecat": [
+          "IAB17-9"
+        ]
+      }
+    },
+    "newsbyraj.com": {
+      "seller_id": "1007",
+      "siteObject": {
+        "cat": [
+          "IAB-11"
+        ],
+        "sectioncat": [
+          "IAB5-2"
+        ],
+        "pagecat": [
+          "IAB5-2"
+        ]
+      }
+    },
+    "marineinsight.com": {
+      "seller_id": "1006",
+      "siteObject": {
+        "cat": [
+          "IAB-12"
+        ],
+        "sectioncat": [
+          "IAB12-1"
+        ],
+        "pagecat": [
+          "IAB12-1"
+        ]
+      }
+    },
+    "latestinbollywood.com": {
+      "seller_id": "1005",
+      "siteObject": {
+        "cat": [
+          "IAB-9"
+        ],
+        "sectioncat": [
+          "IAB10-2"
+        ],
+        "pagecat": [
+          "IAB10-2"
+        ]
+      }
+    },
+    "rightrasta.com": {
+      "seller_id": "1004",
+      "siteObject": {
+        "cat": [
+          "IAB-15"
+        ],
+        "sectioncat": [
+          "IAB4-1"
+        ],
+        "pagecat": [
+          "IAB4-1"
+        ]
+      }
+    },
+    "vccgenerator.org": {
+      "seller_id": "1003",
+      "siteObject": {
+        "cat": [
+          "IAB-15"
+        ],
+        "sectioncat": [
+          "IAB9-1"
+        ],
+        "pagecat": [
+          "IAB9-1"
+        ]
+      }
+    },
+    "cricketaddictor.com": {
+      "seller_id": "1002",
+      "siteObject": {
+        "cat": [
+          "IAB-17"
+        ],
+        "sectioncat": [
+          "IAB17-9"
+        ],
+        "pagecat": [
+          "IAB17-9"
+        ]
+      }
+    },
+    "sportzwiki.com": {
+      "seller_id": "1000",
+      "siteObject": {
+        "cat": [
+          "IAB-17"
+        ],
+        "sectioncat": [
+          "IAB17-9"
+        ],
+        "pagecat": [
+          "IAB17-9"
+        ]
+      }
+    }
+  }
+}
